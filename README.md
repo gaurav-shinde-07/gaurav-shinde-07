@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Shinde</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://gaurav-shinde-07.github.io/](https://gaurav-shinde-07.github.io/)
 
-- 💬 Ask me about **python, java, JS, TS, react, redux, tailwind**
+- 💬 Ask me about **Computer Networks, Data Structures & algorithm, Object-Oriented Programming, Information Security**
 
 - 📫 How to reach me **gauravmshinde017@gmail.com**
 
